@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+<body>
+<h3>US Cities Record Max & Min Temperature and Average Monthly Precipitation Since 1880</h3>
+<div id="content">
+	<div>
+		<div id="components">
+			Select a City&nbsp;
+			<select id="select-city">
+				<option>CLT</option>
+				<option>KNYC</option>
+				<option>KSEA</option>
+			</select>
+			&nbsp;&nbsp;
+			Include Average Monthly Precipitation
+			<input id="check-show" type="checkbox" checked>
+		</div>
+		<div id="svg"></div>
+	</div>
+
+	<div id="legend">
+		<br>Orange Line : Record Maximum Temperature </br>
+		<br> </br>
+		<br>Blue Line : Record Minimum Temperature </br>
+		<br> </br>
+		<br> </br>
+		<br>Blue Area : Average Monthly Precipitation
+	</div>
+</div>
+	
+</div>
+<script src="./d3.v7.min.js"></script>
+<script src="./main.js"></script>
+</body>
+</html>
