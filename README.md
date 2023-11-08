@@ -1,6 +1,5 @@
 # info474_final_project
 ### User Interface
-![Picture](D:\学习\UW\info474\info474_final_project\graph.png)
 In this design, I used data from CLT, KNY, and KSEA to create a line graph visualization illustrating 
 extreme temperature and average monthly precipitation since 1880. The x-axis represents the month, and 
 the y-axis represents the temperature. The variables I have selected to analyze are record_max_temp, 
