@@ -10,5 +10,5 @@ of a circle. This visualization also has the following interactive features:
 a. User can select the city they want to access from the drop down menu at the top
 b. The check box at the top allows the user to hide the precipitation data.
 c. User can hover over the precipitation circle to see the exact value. 
-![graph](D:\学习\UW\info474\info474_final_project\graph.png)
+
 ### Please check Project Overview file in the respository for project summary and design interface picture
